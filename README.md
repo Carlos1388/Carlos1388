@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carlos1388
-- 👀 I’m interested in maths/ml
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning tensorflow
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
